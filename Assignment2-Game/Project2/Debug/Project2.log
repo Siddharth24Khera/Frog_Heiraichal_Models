@@ -1,0 +1,16 @@
+﻿  main.cpp
+c:\users\siddharth khera\desktop\semester 4\col781 computer graphics\assignment 2\assignment2-game\project2\main.cpp(156): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\siddharth khera\desktop\semester 4\col781 computer graphics\assignment 2\assignment2-game\project2\main.cpp(157): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\siddharth khera\desktop\semester 4\col781 computer graphics\assignment 2\assignment2-game\project2\main.cpp(162): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\siddharth khera\desktop\semester 4\col781 computer graphics\assignment 2\assignment2-game\project2\main.cpp(163): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\siddharth khera\desktop\semester 4\col781 computer graphics\assignment 2\assignment2-game\project2\main.cpp(237): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\siddharth khera\desktop\semester 4\col781 computer graphics\assignment 2\assignment2-game\project2\main.cpp(238): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\siddharth khera\desktop\semester 4\col781 computer graphics\assignment 2\assignment2-game\project2\main.cpp(252): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\siddharth khera\desktop\semester 4\col781 computer graphics\assignment 2\assignment2-game\project2\main.cpp(253): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\siddharth khera\desktop\semester 4\col781 computer graphics\assignment 2\assignment2-game\project2\main.cpp(272): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\siddharth khera\desktop\semester 4\col781 computer graphics\assignment 2\assignment2-game\project2\main.cpp(283): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\siddharth khera\desktop\semester 4\col781 computer graphics\assignment 2\assignment2-game\project2\main.cpp(284): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\siddharth khera\desktop\semester 4\col781 computer graphics\assignment 2\assignment2-game\project2\main.cpp(298): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\siddharth khera\desktop\semester 4\col781 computer graphics\assignment 2\assignment2-game\project2\main.cpp(299): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Project2.vcxproj -> C:\Users\Siddharth Khera\Desktop\Semester 4\COL781 Computer Graphics\Assignment 2\Assignment2-Game\Debug\Project2.exe
+  Project2.vcxproj -> C:\Users\Siddharth Khera\Desktop\Semester 4\COL781 Computer Graphics\Assignment 2\Assignment2-Game\Debug\Project2.pdb (Partial PDB)
